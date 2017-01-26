@@ -1,0 +1,6 @@
+{
+  "jenkins_servers": ["http://master1.jenkins.com:8080", "http://master2.jenkins.com:8080"],
+  "jenkins_user": "jenkins",
+  "jenkins_password": "jenkins",
+  "node_labels": ["maven-slave", "go-slave", "android-slave"]
+}
